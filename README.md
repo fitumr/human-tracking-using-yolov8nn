@@ -1,0 +1,1 @@
+This is a project assignment from Indonesia.ai’s Computer Vision Specialist Bootcamp, Batch 9 (2025). This code is using yolov8n in detecting human. Dataset from https://universe.roboflow.com/leo-ueno/people-detection-o4rdr/dataset/8.
